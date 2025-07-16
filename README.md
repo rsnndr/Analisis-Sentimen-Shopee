@@ -1,1 +1,2 @@
 # Analisis-Sentimen-Shopee
+Repositori ini berisi proyek analisis sentimen terhadap ulasan produk di platform Shopee menggunakan pendekatan text mining dan natural language processing (NLP). Data ulasan diproses melalui tahapan pembersihan teks, tokenisasi, dan penghapusan stopword, lalu dianalisis menggunakan metode lexicon-based dan visualisasi. Proyek ini bertujuan untuk mengidentifikasi persepsi pengguna terhadap produk, serta memberikan insight yang berguna bagi penjual atau pengambil keputusan.
